@@ -1,2 +1,2 @@
 # Maps-and-mnist-training
-Training
+Training AI using mnist
