@@ -1,2 +1,3 @@
 # Maps-and-mnist-training
-Training AI using mnist
+Training using mnist Dataset
+
